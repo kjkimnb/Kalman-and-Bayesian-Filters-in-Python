@@ -27,7 +27,7 @@ jupyter notebook table_of_contents.ipynb
 
 ```bash
 cd pdf
-pip install nbconvert[webpdf] playwright
+pip install nbconvert[webpdf] playwright pypdf
 playwright install chromium
 ./build_pdf.sh
 ```
