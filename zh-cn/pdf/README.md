@@ -1,6 +1,10 @@
 # 中文版 PDF 构建说明
 
-生成带**封面**、**可跳转目录**、**代码运行结果（含图片）**的完整 PDF。
+> **大多数读者不需要运行本文档。** 预生成的 PDF 已在仓库根目录：
+> [`../Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf`](../Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf)
+> — 直接下载即可。
+
+以下说明仅供**修改 notebook 后需要重新导出 PDF** 时使用。
 
 ## 一键构建
 
