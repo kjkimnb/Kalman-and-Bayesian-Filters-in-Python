@@ -13,8 +13,8 @@
 | 03-Gaussians.ipynb | done | |
 | 04-One-Dimensional-Kalman-Filters.ipynb | done | |
 | 05-Multivariate-Gaussians.ipynb | done | |
-| 06-Multivariate-Kalman-Filters.ipynb | pending | |
-| 07-Kalman-Filter-Math.ipynb | pending | |
+| 06-Multivariate-Kalman-Filters.ipynb | done | |
+| 07-Kalman-Filter-Math.ipynb | done | |
 | 08-Designing-Kalman-Filters.ipynb | pending | |
 | 09-Nonlinear-Filtering.ipynb | pending | |
 | 10-Unscented-Kalman-Filter.ipynb | pending | |
