@@ -30,8 +30,8 @@
 | Appendix-A-Installation.ipynb | done | |
 | Appendix-B-Symbols-and-Notations.ipynb | done | |
 | Appendix-D-HInfinity-Filters.ipynb | done | |
-| Appendix-E-Ensemble-Kalman-Filters.ipynb | pending | |
-| Appendix-G-Designing-Nonlinear-Kalman-Filters.ipynb | pending | |
+| Appendix-E-Ensemble-Kalman-Filters.ipynb | done | |
+| Appendix-G-Designing-Nonlinear-Kalman-Filters.ipynb | done | |
 | Appendix-H-Least-Squares-Filters.ipynb | done | |
 | Appendix-I-Analytic-Evaluation-of-Performance.ipynb | done | |
 
