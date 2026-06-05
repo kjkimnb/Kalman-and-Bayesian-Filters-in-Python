@@ -39,36 +39,36 @@
 
 | 文件 | 状态 | 备注 |
 |------|------|------|
-| animations/discrete_bayes_animations.ipynb | pending | |
-| animations/Gaussians_Animations.ipynb | pending | |
-| animations/Kalman_Filters_Animations.ipynb | pending | |
-| animations/multivariate_animations.ipynb | pending | |
-| animations/particle_animate.ipynb | pending | |
+| animations/discrete_bayes_animations.ipynb | done | |
+| animations/Gaussians_Animations.ipynb | done | |
+| animations/Kalman_Filters_Animations.ipynb | done | |
+| animations/multivariate_animations.ipynb | done | |
+| animations/particle_animate.ipynb | done | |
 
 ## Supporting_Notebooks/
 
 | 文件 | 状态 | 备注 |
 |------|------|------|
-| Supporting_Notebooks/Computing_and_plotting_PDFs.ipynb | pending | |
-| Supporting_Notebooks/Converting-Multivariate-Equations-to-Univariate.ipynb | pending | |
-| Supporting_Notebooks/Interactions.ipynb | pending | |
-| Supporting_Notebooks/Iterative-Least-Squares-for-Sensor-Fusion.ipynb | pending | |
-| Supporting_Notebooks/Taylor-Series.ipynb | pending | |
+| Supporting_Notebooks/Computing_and_plotting_PDFs.ipynb | done | |
+| Supporting_Notebooks/Converting-Multivariate-Equations-to-Univariate.ipynb | done | |
+| Supporting_Notebooks/Interactions.ipynb | done | |
+| Supporting_Notebooks/Iterative-Least-Squares-for-Sensor-Fusion.ipynb | done | |
+| Supporting_Notebooks/Taylor-Series.ipynb | done | |
 
 ## experiments/
 
 | 文件 | 状态 | 备注 |
 |------|------|------|
-| experiments/1d_kf_compare.ipynb | pending | |
-| experiments/1dposvel.ipynb | pending | |
-| experiments/compute_q.ipynb | pending | |
-| experiments/gating.ipynb | pending | |
-| experiments/satellite.ipynb | pending | |
-| experiments/Untitled.ipynb | pending | |
-| experiments/Untitled0.ipynb | pending | |
-| experiments/Untitled1.ipynb | pending | |
-| experiments/Untitled2.ipynb | pending | |
-| experiments/zarchan_ball.ipynb | pending | |
+| experiments/1d_kf_compare.ipynb | done | |
+| experiments/1dposvel.ipynb | done | |
+| experiments/compute_q.ipynb | done | |
+| experiments/gating.ipynb | done | |
+| experiments/satellite.ipynb | done | |
+| experiments/Untitled.ipynb | done | |
+| experiments/Untitled0.ipynb | done | |
+| experiments/Untitled1.ipynb | done | |
+| experiments/Untitled2.ipynb | done | |
+| experiments/zarchan_ball.ipynb | done | |
 
 ## pdf/
 
