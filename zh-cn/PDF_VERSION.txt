@@ -1,0 +1,5 @@
+# 此文件标记 master 上 PDF 的版本，便于核对 GitHub 是否为最新
+pdf_file: Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf
+updated: 2026-06-05
+features: hierarchical-chapter-toc, centered-cover, page-numbers
+commit: see git log for zh-cn/Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf
