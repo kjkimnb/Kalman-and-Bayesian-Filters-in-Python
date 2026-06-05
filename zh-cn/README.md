@@ -16,7 +16,10 @@ jupyter notebook table_of_contents.ipynb
 
 完整 PDF 已包含在仓库中，**可直接下载阅读**，不必自己跑构建脚本：
 
-**[Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf](Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf)**（约 450 页，28 MB）
+**[Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf](Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf)**（约 450 页，29 MB）
+
+请在 GitHub 上切换到 **`master`** 分支查看/下载（最新版已合并进 master）。  
+Raw 直链：<https://raw.githubusercontent.com/kjkimnb/Kalman-and-Bayesian-Filters-in-Python/master/zh-cn/Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf>
 
 - 含封面、可跳转目录
 - 含代码输入与运行结果（含图片）
