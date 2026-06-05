@@ -12,9 +12,18 @@ jupyter notebook table_of_contents.ipynb
 
 请从 [目录](table_of_contents.ipynb) 开始阅读。
 
-## 导出 PDF
+## 直接阅读 PDF（已生成，无需自行构建）
 
-可生成带封面、可跳转目录、含代码运行结果（含图片）的完整 PDF：
+完整 PDF 已包含在仓库中，**可直接下载阅读**，不必自己跑构建脚本：
+
+**[Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf](Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf)**（约 450 页，28 MB）
+
+- 含封面、可跳转目录
+- 含代码输入与运行结果（含图片）
+
+## 重新生成 PDF（可选）
+
+仅在你修改了 notebook 内容、需要更新 PDF 时才需要：
 
 ```bash
 cd pdf
@@ -23,7 +32,7 @@ playwright install chromium
 ./build_pdf.sh
 ```
 
-详见 [pdf/README.md](pdf/README.md)。输出：`Kalman_and_Bayesian_Filters_in_Python_zh-CN.pdf`（约 450 页）。
+详见 [pdf/README.md](pdf/README.md)。
 
 ## 翻译说明
 
