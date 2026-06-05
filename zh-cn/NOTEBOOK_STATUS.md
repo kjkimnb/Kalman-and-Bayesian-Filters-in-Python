@@ -9,8 +9,8 @@
 | table_of_contents.ipynb | pending | |
 | 00-Preface.ipynb | done | |
 | 01-g-h-filter.ipynb | done | |
-| 02-Discrete-Bayes.ipynb | pending | |
-| 03-Gaussians.ipynb | pending | |
+| 02-Discrete-Bayes.ipynb | done | |
+| 03-Gaussians.ipynb | done | |
 | 04-One-Dimensional-Kalman-Filters.ipynb | done | |
 | 05-Multivariate-Gaussians.ipynb | done | |
 | 06-Multivariate-Kalman-Filters.ipynb | pending | |
