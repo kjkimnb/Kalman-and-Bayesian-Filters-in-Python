@@ -6,7 +6,7 @@
 
 | 文件 | 状态 | 备注 |
 |------|------|------|
-| table_of_contents.ipynb | pending | |
+| table_of_contents.ipynb | done | |
 | 00-Preface.ipynb | done | |
 | 01-g-h-filter.ipynb | done | |
 | 02-Discrete-Bayes.ipynb | done | |
@@ -74,4 +74,4 @@
 
 | 文件 | 状态 | 备注 |
 |------|------|------|
-| pdf/index.ipynb | pending | |
+| pdf/index.ipynb | done | |
