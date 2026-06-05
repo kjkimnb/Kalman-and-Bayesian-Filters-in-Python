@@ -1,0 +1,51 @@
+((* extends 'report.tex.j2' *))
+
+((* block docclass *))
+\documentclass[11pt,a4paper]{book}
+\setcounter{chapter}{0}
+\raggedbottom
+((* endblock docclass *))
+
+((* block packages *))
+((( super() )))
+\usepackage{ctex}
+\setCJKmainfont{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+\setCJKmonofont{Noto Sans Mono CJK SC}
+((* endblock packages *))
+
+((* block title *))
+\title{Python 中的 Kalman 与 Bayesian 滤波}
+((* endblock title *))
+
+((* block author *))
+\author{Roger R Labbe Jr \\ 中文译本}
+((* endblock author *))
+
+((* block date *))
+\date{\today}
+((* endblock date *))
+
+((* block maketitle *))
+\begin{titlepage}
+  \centering
+  \vspace*{2cm}
+  {\Huge\bfseries Python 中的 Kalman 与 Bayesian 滤波\par}
+  \vspace{1.2cm}
+  {\Large Kalman and Bayesian Filters in Python\par}
+  \vspace{0.8cm}
+  {\large 中文译本\par}
+  \vfill
+  {\large Roger R Labbe Jr\par}
+  \vspace{0.5cm}
+  {\large \today\par}
+\end{titlepage}
+\cleardoublepage
+((* endblock maketitle *))
+
+((* block tableofcontents *))
+\frontmatter
+\tableofcontents
+\cleardoublepage
+\mainmatter
+((* endblock tableofcontents *))

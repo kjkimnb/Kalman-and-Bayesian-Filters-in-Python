@@ -1,0 +1,11 @@
+# PDF 构建中间产物
+tmp/
+book.ipynb
+book_export.html
+book.tex
+book.log
+book.aux
+book.out
+book.toc
+book_files/
+*.pdf
